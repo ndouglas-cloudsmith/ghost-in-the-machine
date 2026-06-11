@@ -49,6 +49,9 @@ https://sieve.godel-labs.ai
 
 <img width="1138" height="512" alt="skills-infra" src="https://github.com/user-attachments/assets/cdc3ae0e-8ebf-4e2b-92e7-839a8ac14408" />
 
+#### Backstage AI Skills
+Backstage publishes a set of curated AI skills — self-contained guidance files that teach an AI coding assistant how to perform common Backstage engineering tasks. Skills are published to a **[well-known endpoint](https://backstage.io/.well-known/skills/)** on ```backstage.io``` and can be installed into your repository with the **[skills.sh](https://www.skills.sh/)** tool.<br/>
+https://backstage.io/docs/ai/skills
 
 ----
 
