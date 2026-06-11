@@ -74,12 +74,29 @@ wget https://raw.githubusercontent.com/rothenbergt/backstage-agent-skills/refs/h
 <img width="1113" height="678" alt="Screenshot 2026-06-11 at 12 59 52" src="https://github.com/user-attachments/assets/ff89f555-e366-4112-b5a8-e6b0cfae8359" />
 
 
-## Part 3: OWASP Top 10 for Agentic Systems
+#### OWASP Top 10 for Agentic Systems
 OWASP Agentic Skills Top 10: <br/>
 https://owasp.org/www-project-agentic-skills-top-10
 <br/><br/>
 OWASP Top 10 for Agentic Applications for 2026<br/>
 https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/
+
+## Part 3: Caterpillar
+
+Before you install, make sure it's safe. Caterpillar scans every skill before it can cause any harm. <br/>
+https://caterpillar.alice.io 
+<br/><br/>
+Install with ```curl``` on Linux/Mac:
+```
+curl -fsSL caterpillar.alice.io/d/i.sh | sh
+```
+Scan any skill like ```Claude``` Skills, ```Cursor``` Skills, and more..
+```
+caterpillar scan
+```
+
+<img width="648" height="782" alt="Screenshot 2026-06-11 at 15 44 05" src="https://github.com/user-attachments/assets/fca9c6fa-3589-4c46-ae80-d7165a5fe5ae" />
+
 
 ----
 
