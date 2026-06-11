@@ -25,8 +25,8 @@ Jenn Gile analysed **707 malicious skills** published in this period, and found 
 3. **17%**: CLI impersonations, such as ```openclaw-git```
 4. **16%**: Productivity, such as ```gmail-client```
 5. **12%**: Developers, such as ```n8nsk```
-<br/>
-The remaining **4%** they were unable to classify into the above groups.
+
+The remaining 4% they were unable to classify into the above groups.
 <br/><br/>
 Most of the categories weren’t terribly surprising: we know that most malicious open source targets crypto and software developers. And it’s not shocking that loads of CLI impersonators would flood the registry, since threat actors commonly target new technologies. Even productivity-related skills are logical since OpenClaw was designed to be a personal assistant.
 <br/><br/>
