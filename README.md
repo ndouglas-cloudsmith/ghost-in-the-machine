@@ -55,6 +55,17 @@ https://backstage.io/docs/ai/skills
 
 <img width="1200" height="476" alt="Screenshot 2026-06-11 at 12 50 06" src="https://github.com/user-attachments/assets/2a23ba79-eefb-4c0c-b754-d5d4105d66d6" />
 
+#### Backstage Agent Skills
+Claude skills for building Backstage plugins with the New Frontend and Backend Systems. <br/>
+https://github.com/rothenbergt/backstage-agent-skills/tree/main
+<br/><br/>
+
+```
+wget https://raw.githubusercontent.com/rothenbergt/backstage-agent-skills/refs/heads/main/backstage-backend-plugin/SKILL.md
+```
+
+
+
 
 ----
 
