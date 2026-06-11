@@ -44,7 +44,8 @@ Scan documents and media for threats targeting AI Agents: <br/>
 https://sieve.godel-labs.ai
 
 - ```finance-crypto-agent.md```: https://sieve.godel-labs.ai/scan/4o3g1r435d1r0n5m520z0z
-- 
+- ```SKILL.md```: https://sieve.godel-labs.ai/analysis/181c7ad5-2d5b-4b10-8b78-5b5b1c87308d
+- ```trading-skill.md```: https://sieve.godel-labs.ai/analysis/750be001-7d46-4827-8c06-c8d218d0980e
 
 
 ----
