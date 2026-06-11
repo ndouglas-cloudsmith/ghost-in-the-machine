@@ -64,8 +64,21 @@ https://github.com/rothenbergt/backstage-agent-skills/tree/main
 wget https://raw.githubusercontent.com/rothenbergt/backstage-agent-skills/refs/heads/main/backstage-backend-plugin/SKILL.md
 ```
 
+```backstage-backend-plugin``` - https://sieve.godel-labs.ai/analysis/45763adc-f55b-40af-8953-33749d6145a7
+
+- Server-side request forgery (SSRF) to internal/metadata endpoint detected
+- Sensitive Data: **US BANK NUMBER**
+- OwaspAgenticThreats": "```ASI01```", "```ASI02```", and "```ASI03```"
+
+<img width="1113" height="678" alt="Screenshot 2026-06-11 at 12 59 52" src="https://github.com/user-attachments/assets/ff89f555-e366-4112-b5a8-e6b0cfae8359" />
 
 
+## Part 3: OWASP Top 10 for Agentic Systems
+OWASP Agentic Skills Top 10: <br/>
+https://owasp.org/www-project-agentic-skills-top-10
+<br/><br/>
+OWASP Top 10 for Agentic Applications for 2026<br/>
+https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/
 
 ----
 
