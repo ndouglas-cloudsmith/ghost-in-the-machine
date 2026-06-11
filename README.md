@@ -38,6 +38,21 @@ But what surprised us was that nearly 1/5th of skills that seemed to target peop
 https://opensourcemalware.com/blog/software-supply-chain-malware-landscape
 
 
+## Part 2: Godel's Sieve
+
+Scan documents and media for threats targeting AI Agents: <br/>
+https://sieve.godel-labs.ai
+
+- ```finance-crypto-agent.md```: https://sieve.godel-labs.ai/scan/4o3g1r435d1r0n5m520z0z
+- 
+
+
+----
+
+#### Miscellaneous
+- Snyk Agent Scan: https://github.com/snyk/agent-scan
+
+
 ## PlatformCon 2026 Workshops
 
 1. [Hunting compromised software dependencies inside Kubernetes workloads](https://github.com/ndouglas-cloudsmith/compromised-dependencies-kubernetes/tree/main)
