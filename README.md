@@ -4,7 +4,8 @@
 This was created for **Workshop #4** of PlatformCon: <br/>
 [Link to the PlatformCon session](https://platformcon.com/sessions/the-ghost-in-the-machine-securing-ai-agent-skills)
 
-<img width="50%" height="653" alt="Screenshot 2026-06-06 at 22 24 45" src="https://github.com/user-attachments/assets/85e8eedc-b7ed-4339-aaf6-6068c88e54d9" />
+<img width="50%" height="653" alt="ghost" src="https://github.com/user-attachments/assets/af1d48a8-c03b-4844-8b0d-a114d62a3299" />
+
 
 ### Learning Outcomes
 As agent skills emerge as a pivotal mechanism for extending AI capabilities in platform engineering, they offer significant productivity gains alongside critical supply chain vulnerabilities. By enabling agents to execute modular instructions, these tools help platform teams scale
