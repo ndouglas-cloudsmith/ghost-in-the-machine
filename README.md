@@ -47,6 +47,8 @@ https://sieve.godel-labs.ai
 - ```SKILL.md```: https://sieve.godel-labs.ai/analysis/181c7ad5-2d5b-4b10-8b78-5b5b1c87308d
 - ```trading-skill.md```: https://sieve.godel-labs.ai/analysis/750be001-7d46-4827-8c06-c8d218d0980e
 
+<img width="1138" height="512" alt="skills-infra" src="https://github.com/user-attachments/assets/cdc3ae0e-8ebf-4e2b-92e7-839a8ac14408" />
+
 
 ----
 
