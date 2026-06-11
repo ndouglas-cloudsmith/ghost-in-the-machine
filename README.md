@@ -50,8 +50,11 @@ https://sieve.godel-labs.ai
 <img width="1138" height="512" alt="skills-infra" src="https://github.com/user-attachments/assets/cdc3ae0e-8ebf-4e2b-92e7-839a8ac14408" />
 
 #### Backstage AI Skills
-Backstage publishes a set of curated AI skills — self-contained guidance files that teach an AI coding assistant how to perform common Backstage engineering tasks. Skills are published to a **[well-known endpoint](https://backstage.io/.well-known/skills/)** on ```backstage.io``` and can be installed into your repository with the **[skills.sh](https://www.skills.sh/)** tool.<br/>
+Backstage publishes a set of curated AI skills — self-contained guidance files that teach an AI coding assistant how to perform common Backstage engineering tasks. Skills are published to a **[well-known endpoint](https://backstage.io/.well-known/skills/)** on ```backstage.io``` and can be installed into your repository with the **[skills.sh](https://www.skills.sh/)** tool.<br/><br/>
 https://backstage.io/docs/ai/skills
+
+<img width="1200" height="476" alt="Screenshot 2026-06-11 at 12 50 06" src="https://github.com/user-attachments/assets/2a23ba79-eefb-4c0c-b754-d5d4105d66d6" />
+
 
 ----
 
